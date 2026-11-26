@@ -1,0 +1,2 @@
+# Little Paws
+A community-driven web platform dedicated to animal rescue, helping people report lost and found animals, connect with volunteers, and coordinate rescue efforts. Little Paws aims to build a safer community for animals through technology, collaboration, and compassion.
